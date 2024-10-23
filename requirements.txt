@@ -1,5 +1,8 @@
-seaborn
+streamlit
 pandas
-matplolib
 numpy
+seaborn
+matplotlib
 folium
+streamlit-folium
+altair
